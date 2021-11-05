@@ -2,7 +2,7 @@
 
 Description
 -----
-The project is a minimalistic bookstore that can be visited in a browser.
+The project is a minimalistic non-distributed bookstore that can be visited in a browser.
 
 Run
 -----
