@@ -2,7 +2,7 @@
 
 ## Installation
 
-Make sure you installed [Node.js and NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) first.
+Make sure you installed [Node.js and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) first.
 
 ### `npm install`
 
